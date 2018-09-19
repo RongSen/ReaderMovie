@@ -1,0 +1,12 @@
+<view class='container'>
+  <image class='user-avatar' src='/images/avatar/1.png'></image>
+   <!--  <text></text> 组件相关：
+   1、在手机上长按时选中的文字；
+   2、可相互嵌套；
+   3、可在内容中加入转义字符（即不会将转义字符当作普通字符串输出） 
+   -->
+  <text class='user-name'>Hello, RongSen</text>
+  <view class='moto-container'>
+    <text class='moto'>开启小程序之旅</text>
+  </view>
+</view>
