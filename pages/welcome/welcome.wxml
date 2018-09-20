@@ -6,7 +6,7 @@
    3、可在内容中加入转义字符（即不会将转义字符当作普通字符串输出） 
    -->
   <text class='user-name'>Hello, RongSen</text>
-  <view class='moto-container'>
+  <view class='moto-container' bindtap='onTap'>
     <text class='moto'>开启小程序之旅</text>
   </view>
 </view>
